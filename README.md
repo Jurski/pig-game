@@ -1,2 +1,2 @@
 # pig-game
-Pig game on JS
+Dice game on JS, first player to get 100 points wins
